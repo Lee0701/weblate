@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Weblate 4.17\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/weblate/issues\n"
 "POT-Creation-Date: 2023-04-14 14:36+0000\n"
-"PO-Revision-Date: 2023-05-16 11:46+0000\n"
+"PO-Revision-Date: 2023-05-16 11:50+0000\n"
 "Last-Translator: Lee0701 <hgl1002@naver.com>\n"
 "Language-Team: Korean <http://weblate.xn--p8s937b.net/projects/weblate/"
 "django/ko_KORE@kr/>\n"
@@ -121,40 +121,40 @@ msgid "Your password has been changed."
 msgstr "計定의秘密番號가變更되었습니다."
 
 #: weblate/accounts/forms.py:493
-#, python-format
+#, fuzzy, python-format
 msgctxt ""
 "Question for a mathematics-based CAPTCHA, the %s is an arithmetic problem"
 msgid "What is %s?"
-msgstr ""
+msgstr "%s 는(은)?"
 
 #. Translators: Shown on wrong answer to the mathematics-based CAPTCHA
 #: weblate/accounts/forms.py:512
 msgid "That was not correct, please try again."
-msgstr ""
+msgstr "틀렸습니다, 다시試圖하십시오."
 
 #: weblate/accounts/forms.py:539
 msgid "Current password"
-msgstr ""
+msgstr "現在秘密番號"
 
 #: weblate/accounts/forms.py:540
 msgid "Leave empty if you have not yet set a password."
-msgstr ""
+msgstr "아직秘密番號를設定하지않으셨다면, 入力하지않아도됩니다."
 
 #: weblate/accounts/forms.py:553
 msgid "You have entered an invalid password."
-msgstr ""
+msgstr "秘密番號를잘못入力하셨습니다."
 
 #: weblate/accounts/forms.py:566
 msgid "Username or e-mail"
-msgstr ""
+msgstr "使用者이름또는電子郵便"
 
 #: weblate/accounts/forms.py:567 weblate/accounts/templatetags/authnames.py:21
 msgid "Password"
-msgstr ""
+msgstr "秘密番號"
 
 #: weblate/accounts/forms.py:570
 msgid "Please enter the correct username and password."
-msgstr ""
+msgstr "올바른使用者이름과秘密番號를入力하십시오."
 
 #: weblate/accounts/forms.py:571
 msgid "This account is inactive."
