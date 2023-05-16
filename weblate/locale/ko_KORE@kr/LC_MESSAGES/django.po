@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Weblate 4.17\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/weblate/issues\n"
 "POT-Creation-Date: 2023-04-14 14:36+0000\n"
-"PO-Revision-Date: 2023-05-16 11:43+0000\n"
+"PO-Revision-Date: 2023-05-16 11:46+0000\n"
 "Last-Translator: Lee0701 <hgl1002@naver.com>\n"
 "Language-Team: Korean <http://weblate.xn--p8s937b.net/projects/weblate/"
 "django/ko_KORE@kr/>\n"
@@ -47,8 +47,9 @@ msgid "Full name"
 msgstr "姓名"
 
 #: weblate/accounts/forms.py:171 weblate/accounts/models.py:565
+#, fuzzy
 msgid "Commit e-mail"
-msgstr ""
+msgstr "e-mail 커밋"
 
 #: weblate/accounts/forms.py:172
 msgid "Use account e-mail address"
@@ -77,47 +78,47 @@ msgstr "電子郵便"
 
 #: weblate/accounts/forms.py:335
 msgid "You can add another e-mail address below."
-msgstr ""
+msgstr "下段에다른電子郵便住所를追加할수있습니다."
 
 #: weblate/accounts/forms.py:377
 msgid "Subject"
-msgstr ""
+msgstr "主題"
 
 #: weblate/accounts/forms.py:379
 msgid "Your name"
-msgstr ""
+msgstr "이름"
 
 #: weblate/accounts/forms.py:381
 msgid "Your e-mail"
-msgstr ""
+msgstr "電子郵便"
 
 #: weblate/accounts/forms.py:383 weblate/templates/manage/performance.html:27
 #: weblate/templates/manage/performance.html:73
 #: weblate/trans/models/announcement.py:70
 msgid "Message"
-msgstr ""
+msgstr "메시지"
 
 #: weblate/accounts/forms.py:386
 msgid ""
 "Please contact us in English, otherwise we might be unable to process your "
 "request."
-msgstr ""
+msgstr "英語로問議해주셔야圓滑한支援이可能합니다."
 
 #: weblate/accounts/forms.py:402
 msgid "Activation e-mail will be sent here."
-msgstr ""
+msgstr "本人確認用 電子郵便이 이住所로傳送됩니다."
 
 #: weblate/accounts/forms.py:444
 msgid "New password"
-msgstr ""
+msgstr "새秘密番號"
 
 #: weblate/accounts/forms.py:447
 msgid "New password confirmation"
-msgstr ""
+msgstr "새秘密番號 確認"
 
 #: weblate/accounts/forms.py:468
 msgid "Your password has been changed."
-msgstr ""
+msgstr "計定의秘密番號가變更되었습니다."
 
 #: weblate/accounts/forms.py:493
 #, python-format
