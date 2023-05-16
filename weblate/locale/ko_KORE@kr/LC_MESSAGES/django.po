@@ -8,25 +8,27 @@ msgstr ""
 "Project-Id-Version: Weblate 4.17\n"
 "Report-Msgid-Bugs-To: https://github.com/WeblateOrg/weblate/issues\n"
 "POT-Creation-Date: 2023-04-14 14:36+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-16 11:29+0000\n"
+"Last-Translator: Lee0701 <hgl1002@naver.com>\n"
+"Language-Team: Korean <http://weblate.xn--p8s937b.net/projects/weblate/"
+"django/ko_KORE@kr/>\n"
 "Language: ko_KORE@kr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: weblate/accounts/avatar.py:84
 msgctxt "No known user"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #: weblate/accounts/avatar.py:109 weblate/templates/accounts/profile.html:206
 #: weblate/templates/accounts/user.html:22 weblate/templates/base.html:248
 #: weblate/templates/snippets/user-list.html:14
 msgid "User avatar"
-msgstr ""
+msgstr "使用者아바타"
 
 #: weblate/accounts/forms.py:74
 msgid ""
